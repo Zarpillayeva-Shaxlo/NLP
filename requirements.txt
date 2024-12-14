@@ -1,3 +1,4 @@
-streamlit
-stt
-numpy
+Flask==2.2.2
+flask-cors==3.0.10
+numpy==1.22.4
+coqui-stt==1.4.0
